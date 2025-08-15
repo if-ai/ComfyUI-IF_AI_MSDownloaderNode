@@ -1,0 +1,7 @@
+huggingface_hub
+python-dotenv
+tqdm
+aiohttp
+modelscope
+
+
